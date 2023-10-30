@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mikal-k/mikal-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikal-k/mikal-k** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,22 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Mikal
+# Hi, I'm ✨Mikal✨
 
-I'm a Full Stack Developer from [Your Location]. I enjoy working with the following technologies:
+I'm from Norway, and some times enjoy playing around with technology as:
 
-- JavaScript
-- Node.js
-- React
+- Bash
+- Docker
+- Linux
 - Python
+
 
 ## 🔭 I'm currently working on ...
 
-World peace 
+- World peace 
 
 ## 🌱 I'm currently learning ...
 
-Obsidian, Hugo, hard lessons.
+- Obsidian
+- Hugo
+- Hard lessons about life
 
 ## 📫 How to reach me:
 
@@ -44,27 +47,9 @@ Obsidian, Hugo, hard lessons.
 ## 👨‍💻 Some of my projects
 
 ### 📖 [Moji the Decoder](https://github.com/mikal-k/moji-the-decoder)
-
 I was curous about the Unicode zero width joiner character (ZWJ, 200d), and started something basic.
 
-🎲 Project 2
+### 🎲 Ferist
+A very exciting Vagrant file coming soon. 
 
-Describe what this project is all about. Include the tech stack, how to run it, what you learned, etc.
-
-Here's a code snippet from the project:
-```
-javascript
-
-function helloWorld() {
-    console.log("Hello, World!");
-}
-
-```
-
-📜 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-    My Latest Blog Post
-    Another Blog Post
-
-<!-- BLOG-POST-LIST:END -->
+That's it. Fin. 
